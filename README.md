@@ -38,7 +38,7 @@ If you find our work helpful, please cite us.
 ```BibTeX
 @article{citekey,
     title={Title},
-    author={Name Surname, Name Surname (consultant), Name Surname (advisor)},
+    author={Egor Petrov, Nikita Kiselev (consultant), Andrey Grabovoy (advisor)},
     year={2025}
 }
 ```
