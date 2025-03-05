@@ -8,5 +8,5 @@
 
 | Topic | Title | Year | Authors | Paper | Code | Summary |
 | :--- | :--- | :---: | :--- | :---: | :---: | :--- |
-| Topic #1 | Paper Title | Publishing Year | Author #1 et al. | [arXiv/DOI]() | [GitHub]() | Short summary to be inserted in the Related Work section |
+| Main Articles | Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes | 2024 | Nikita Kiselev et al. | [arXiv/DOI](https://arxiv.org/abs/2409.11995) | [GitHub]() | Short summary to be inserted in the Related Work section |
 |  | TODO | TODO | TODO | TODO | TODO | TODO |
