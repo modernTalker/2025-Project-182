@@ -37,7 +37,7 @@ TODO
 If you find our work helpful, please cite us.
 ```BibTeX
 @article{citekey,
-    title={Title},
+    title={Convergence of the loss function surface in transformer neural network architectures},
     author={Egor Petrov, Nikita Kiselev (consultant), Andrey Grabovoy (advisor)},
     year={2025}
 }
