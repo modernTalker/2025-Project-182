@@ -8,7 +8,7 @@
 
 | Topic | Title | Year | Authors | Paper | Code | Summary |
 | :--- | :--- | :---: | :--- | :---: | :---: | :--- |
-| Main Articles | Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes | 2024 | Nikita Kiselev et al. | [arXiv/DOI](https://arxiv.org/abs/2409.11995) | [GitHub]() | Fully-Contedet NN Landscape study |
+| Main Articles | Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes | 2024 | Nikita Kiselev et al. | [arXiv/DOI](https://arxiv.org/abs/2409.11995) | [GitHub](https://github.com/kisnikser/landscape-hessian) | Fully-Contedet NN Landscape study |
 |  | ConvNets Landscape Convergence: Hessian-Based Analysis of Matricized Networks | 2024 | Vladislav Meshkov et al. | [arXiv/DOI](https://ieeexplore.ieee.org/document/10899113) | [GitHub]() | ConvNet Landscape study |
 |  | Kiselev BS Thesis Paper | 2024 | Nikita Kiselev et al. | [arXiv/DOI]() | [GitHub]() | A work that explores the desired area and reveals the basic definitions |
 |  | A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity | 2023 | Hongkang Li et al. | [OpenReview](https://openreview.net/forum?id=jClGv3Qjhb) | [GitHub]() | The work carries out the Visual Transformer analisys, studying sample complexity for zero generalization error, might be similar to sample size research |
