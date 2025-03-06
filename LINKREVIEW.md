@@ -10,8 +10,12 @@
 | :--- | :--- | :---: | :--- | :---: | :---: | :--- |
 | Main Articles | Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes | 2024 | Nikita Kiselev et al. | [arXiv/DOI](https://arxiv.org/abs/2409.11995) | [GitHub]() | Fully-Contedet NN Landscape study |
 |  | ConvNets Landscape Convergence: Hessian-Based Analysis of Matricized Networks | 2024 | Vladislav Meshkov et al. | [arXiv/DOI](https://ieeexplore.ieee.org/document/10899113) | [GitHub]() | ConvNet Landscape study |
-|  | Stagewise Development in Transformers and the Geometry of the Loss Landscape | 2024 | Currently anonymos | [OpenReview](https://openreview.net/forum?id=xEZiEhjTeq) | [GitHub]() | Work developing a geometric view of the loss function landscape without mention of the minimum required sample size |
 |  | Kiselev BS Thesis Paper | 2024 | Nikita Kiselev et al. | [arXiv/DOI]() | [GitHub]() | A work that explores the desired area and reveals the basic definitions |
+| Loss Landscape | The Loss Surface of Deep and Wide Neural Networks | 2017 | Quynh Nguyen et al. | [arXiv/DOI](https://arxiv.org/pdf/1704.08045) | [GitHub]() | A bit more on optimization, the connection between local and global minima in NN is shown |
+|  | Essentially No Barriers in Neural Network Energy Landscape | 2019 | Felix Draxler et al. | [arXiv/DOI](https://arxiv.org/pdf/1803.00885) | [GitHub]() | The study investigates the minima placements on the loss function landscape |
+|  | Stagewise Development in Transformers and the Geometry of the Loss Landscape | 2024 | Currently anonymos | [OpenReview](https://openreview.net/forum?id=xEZiEhjTeq) | [GitHub]() | Work developing a geometric view of the loss function landscape without mention of the minimum required sample size |
+|  | Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs | 2018 | Timur Garipov et al. | [arXiv/DOI](https://arxiv.org/pdf/1802.10026) | [GitHub]() | The study  shows that the optima of these complex loss functions are in fact connected by simple curves |
+|  | LossLens: Diagnostics for Machine Learning through Loss Landscape Visual Analytics | 2024 | Tiankai Xie et al. | [arXiv/DOI](https://arxiv.org/pdf/2412.13321) | [GitHub]() | Focusing on visual aspect the study provides information about loss landscapes in deep NN, covering the possibilities of finding minimal sample size|
 | Transformers | Attention Is All You Need | 2017 | Ashish Vaswani et al. | [arXiv/DOI](https://arxiv.org/abs/1706.03762) | [GitHub]() | Basic work on transformer architecture and attention mechanism |
 |  | TODO | TODO | TODO | TODO | TODO | TODO |
 |  | TODO | TODO | TODO | TODO | TODO | TODO |
